@@ -1,0 +1,4 @@
+home_to_websites:
+  - www
+  # - cli
+  - 8080
